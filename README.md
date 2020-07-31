@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [Kubeflow on AWS][kubeflowwebsite]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Make Kubeflow on AWS better
-- ⚡ Fun fact: I love to play game and poke.
+- ⚡ Fun fact: I love to play game and poke
 
 ### Tech Stack
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
