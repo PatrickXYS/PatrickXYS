@@ -6,7 +6,6 @@
 - 🥅 2020 Goals: Make Kubeflow on AWS better
 - ⚡ Fun fact: I love to play game and poker.
 <br />
-
 ---
 
 <img align="left" alt="Yao's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PatrickXYS&show_icons=true&hide_border=true" />
