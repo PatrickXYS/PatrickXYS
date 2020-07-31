@@ -1,4 +1,4 @@
-### Hi there, I'm Yao - alias [xyshow](linkedin) 👋
+### Hi there, I'm Yao - alias [xyshow][linkedin] 👋
 
 ## I'm a Developer and Game Player! 
 - 🔭 I’m currently working on a [Kubeflow on AWS][kubeflowwebsite]!
