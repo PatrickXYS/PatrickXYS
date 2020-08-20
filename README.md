@@ -6,6 +6,8 @@
 - 🥅 2020 Goals: Make Kubeflow on AWS better
 - ⚡ Fun fact: I love to play games and poke
 
+![](https://komarev.com/ghpvc/?username=PatrickXYS)
+
 ### Tech Stack
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
 <img align="left" alt="Golang" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/go/go.png" />
