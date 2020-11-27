@@ -24,7 +24,10 @@
 
 ---
 
-<img align="left" alt="Yao's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PatrickXYS&show_icons=true&hide_border=true" />
+<a href="https://github.com/PatrickXYS">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PatrickXYS&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats&theme=vue">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickXYS&layout=compact&theme=vue">
+</a>
 
 [kubeflowwebsite]: https://github.com/kubeflow 
 [linkedin]: https://www.linkedin.com/in/yao-chuck-xiao-6639a4167/
