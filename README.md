@@ -3,7 +3,7 @@
 ## I'm a Developer and Game Player! 
 - 🔭 I’m mainly working on [Kubeflow on AWS][kubeflowwebsite]!
 - 🌱 I’m currently focusing on Kubeflow, Kubernetes, ML @ AWS EKS 🤣
-- 🥅 2020 Goals: Make Kubeflow on AWS better
+- 🥅 2021 Goals: Make Kubeflow on AWS better
 - ⚡ Fun fact: I love to play games and poke
 
 ![](https://komarev.com/ghpvc/?username=PatrickXYS)
