@@ -4,7 +4,7 @@
 - 🔭 I’m maintaining [Kubeflow on AWS][kubeflowwebsite]!
 - 🌱 I’m currently focusing on Kubernetes, ML @ AWS EKS 🤣
 - 🥅 2021 Goals: Design and optimize microservices
-- ⚡ Fun fact: I like playing games and poke
+- ⚡ Fun fact: I like playing games and poker
 
 ![](https://komarev.com/ghpvc/?username=PatrickXYS)
 
