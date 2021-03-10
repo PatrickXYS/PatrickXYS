@@ -22,6 +22,9 @@
 <br />
 <br />
 
+<img src="https://github-profile-trophy.vercel.app/?username=PatrickXYS&theme=flat&column=7&margin-w=10" alt="logo" height="160" align="center" />
+
+
 ---
 
 <a href="https://github.com/PatrickXYS">
