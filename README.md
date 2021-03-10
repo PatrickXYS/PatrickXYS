@@ -24,9 +24,6 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=PatrickXYS&theme=flat&column=7&margin-w=10" alt="logo" height="160" align="center" />
 
-
----
-
 <a href="https://github.com/PatrickXYS">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PatrickXYS&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats&theme=vue">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickXYS&layout=compact&theme=vue">
