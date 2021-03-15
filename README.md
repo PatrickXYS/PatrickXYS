@@ -2,7 +2,7 @@
 
 ## I'm a Developer and Game Player! 
 - 🔭 I’m maintaining [Kubeflow on AWS][kubeflowwebsite]!
-- 🌱 I’m currently focusing on Kubernetes, ML @ AWS EKS 🤣
+- 🌱 I’m currently focusing on ML, etcd, Kubernetes @ AWS EKS 🤣
 - 🥅 2021 Goals: Design and optimize microservices
 - ⚡ Fun fact: I like playing games and poker
 
