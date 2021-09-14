@@ -5,8 +5,6 @@
 - 🥅 2021 Goals: Design and optimize microservices
 - ⚡ Fun fact: I like playing games and poker
 
-![](https://komarev.com/ghpvc/?username=PatrickXYS)
-
 ### Tech Stack
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
 <img align="left" alt="Golang" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/go/go.png" />
