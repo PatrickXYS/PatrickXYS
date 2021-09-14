@@ -5,7 +5,4 @@
 - 🥅 2021 Goals: Design and optimize microservices
 - ⚡ Fun fact: I like playing games and poker
 
-<br />
-<br />
-
 [linkedin]: https://www.linkedin.com/in/yao-chuck-xiao-6639a4167/
