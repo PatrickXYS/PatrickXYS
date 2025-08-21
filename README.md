@@ -1,8 +1,7 @@
 ### Hi there, I'm [Yao][linkedin] 👋
 
 ## I'm a Developer and Game Player! 
-- 🌱 I’m currently focusing on backend @ Google One 🤣
-- 🥅 2021 Goals: Design and optimize microservices
-- ⚡ Fun fact: I like playing games and poker
+- 🌱 I’m currently focusing on ML Infra @ Google.
+- ⚡ Fun fact: I like playing games, poker, and investment.
 
-[linkedin]: https://www.linkedin.com/in/yao-chuck-xiao-6639a4167/
+[linkedin]: https://www.linkedin.com/in/yao-chuck-xiao/
